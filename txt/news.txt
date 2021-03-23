@@ -1,0 +1,48 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/style.css">
+</head> 
+<body> 
+
+<title>News</title>
+ 
+<h1>Fake news around the dangers of 5G technology and its links to coronavirus have spread online and on social media, despite the lack of any scientific evidence.</h1>
+
+
+<p>Pubic Health England have said “there should be no consequences for public health” with the addition of 5G networks, and independent fact-checking charity Full Fact concluded “there is no evidence that 5G WiFi networks are linked to the new coronavirus.”
+
+So why do so many people continue to spread fake stories about 5G, and what is it about these stories that’s fake?</p>
+
+
+<h2>How the fake news has spread</h2>
+
+<p>You’ve probably heard of 5G, the superfast internet technology that recently arrived in the UK. It promises quicker downloads and browsing speeds with the latest wave of smartphones being able to connect to 5G networks.
+
+It’s also very likely you’ve come across some fake news incorrectly linking 5G to the spread of coronavirus. TikTok videos from accounts with huge followings have received tens of thousands of views and a number of high-profile celebrities have been sharing conspiracy theories about 5G on Instagram and Twitter.
+
+Social media companies have begun to take some action to stop these claims from spreading. YouTube is taking down any videos that promote false stories linking 5G to the spread of coronavirus, while WhatsApp are limiting how many times a popular forwarded message can be forwarded on further.
+
+But even with these actions, the conspiracy theories have spilled over from the online world and into the real one. Reports of fires at masts (that carry 5G signals) across the UK and other acts of vandalism show the real-world consequences of taking false stories as true ones.</p>
+
+<h3>Why is it fake news?</h3>
+
+<p>Concerns about 5G technology have been around since before the coronavirus outbreak. 5G uses radio waves to transmit mobile data over its networks, just like with 4G and 3G. It uses a frequency at the lower end of the electromagnetic spectrum, which means the waves are not strong enough to damage human cells.
+
+Frequencies at the higher end of the spectrum can be harmful to humans, such as x-rays or ultra-violet light. However, 5G is well below this level, with measurements showing it is 66 times below the safety limit for harmful radiation set by international guidelines.</p>
+
+
+<footer class="footer">
+
+<ul id="social">
+
+</ul>
+ <li><a href="https://www.fb.com"><img src"images/facebook.png" alt="facebook icon"/></a></li>
+  <li><a href="https://www.twitter.com"><img src"images/twitter.png" alt="twitter icon"/></a></li>
+  <li><a href="https://www.instagram.com"><img src"images/instagram.png" alt="instagram icon"/></a></li>
+ <li><a href="https://www.youtube.com"><img src"images/youtube.png" alt="youtube icon"/></a></li>
+
+</footer>
+</body>
+</html>

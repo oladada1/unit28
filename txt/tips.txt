@@ -1,0 +1,83 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8">
+<title>Fighting Fake News</title>
+<link rel="stylesheet" href="css/style.css">
+</head> 
+<body> 
+
+<title>Tips</title>
+
+<div id="wrapper">
+<header>
+
+<img src= "http://www.pressgazette.co.uk/wp-content/uploads/2017/04/Fighting-Fake-News-LOGO-1-e1493377784782.jpg" width="212" height="212" alt="Fighting Fake News">
+</header> 
+
+<nav>
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="tips.asp">Tips</a></li>
+  <li><a href="contact us.asp">Contact Us</a></li>
+  <li><a href="about.asp">About</a></li>
+  <li><a href="FAQ.asp">FAQs</a></li>
+</ul>
+</nav> <!--end of navigation-->
+
+<h1>Tips on how to overcome being manipulated by fake news</h1>
+
+<p>As Fighting Fake News, we aim to educate those who may come across news that is fiction and how to overcome being manipulated by fake news. With so much misinformation and fakery around it is difficult to know where a concerned citizen might begin. There is clearly very little that one can do about some of the threats we face — the explosion of ‘alt-facts’, rumour and ill-informed opinion in the media/cyberspace, growing internet fraud and other forms of cyber-crime, hostile governments seeding fake stories to encourage political dissent. However, that’s no reason for complacency: there are issues that we can address, both individually and as a group. You have to start somewhere, and, like kindness, every little helps. Here is our tips to combat against fake news.</p>
+
+<h2>Don’t Add to the Problem</h2>
+
+<ul>
+  <li>Be careful, especially when sharing information and ideas on</li>
+  <li>Do your homework and make sure you are not yourself contributing to the problem — use reputable sources and cross-check information before posting./li>
+  <li>Be constructive — there’s enough negative comment around, but also recognise that this battle is not necessarily about applying logic and reason, rather, addressing people’s emotions and opinions.</li>
+  <li>Be respectful and aware of others’ cultural and religious sensitivities — try not to antagonize decent law-abiding citizens who don’t share your political opinions, or your views or religious beliefs. We live in a pluralist society and need all the support we can get if we are to defeat fake news, trickery and deception.</li>
+ <li>Make an effort to break out of your bubble — follow thoughtful people and different political outlets to our own.</li>
+
+</ul>
+
+
+<h3>Challenge Fake News and Report It</h3>
+<ul>
+  <li></li>
+  <li></li>
+  <li>/li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+
+<ul id="social">
+
+</ul>
+ <li><a href="https://www.fb.com"><img src"images/facebook.png" alt="facebook icon"/></a></li>
+  <li><a href="https://www.twitter.com"><img src"images/twitter.png" alt="twitter icon"/></a></li>
+  <li><a href="https://www.instagram.com"><img src"images/instagram.png" alt="instagram icon"/></a></li>
+ <li><a href="https://www.youtube.com"><img src"images/youtube.png" alt="youtube icon"/></a></li>
+
+</footer>
+</div>
+</body>
+</html>
